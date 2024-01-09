@@ -11,6 +11,8 @@ import Footer from "./components/Footer";
 export default function App() {
   return (
     <div className="max-w-screen-xl mx-auto my-auto">
+      <div>Hello!</div>
+
       {/* NARBAR */}
       <Navbar />
 
